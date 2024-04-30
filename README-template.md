@@ -44,7 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - [Solution URL](https://github.com/akmtasdikulislam/testimonials-grid-section)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://akmtasdikulislam.github.io/testimonials-grid-section/)
 
 ## My process
 
